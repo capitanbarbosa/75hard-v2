@@ -1,0 +1,63 @@
+{
+  "2022-01-29": [
+    {
+      "name": "Task 1",
+      "completedAt": "2022-01-29T18:53:19.871Z",
+      "data": 100
+    },
+    {
+      "name": "Task 2",
+      "completedAt": "2022-01-29T18:53:19.871Z"
+    },
+    {
+      "name": "Task 3",
+      "completedAt": "2022-01-29T18:53:19.871Z"
+    },
+    {
+      "name": "Task 4",
+      "completedAt": "2022-01-29T18:53:19.871Z"
+    },
+    {
+      "name": "Task 5",
+      "completedAt": "2022-01-29T18:53:19.871Z"
+    }
+  ],
+  "2022-01-30": [
+    {
+      "name": "Task 1",
+      "completedAt": "2022-01-31T18:53:19.871Z"
+    },
+    {
+      "name": "Task 2"
+    },
+    {
+      "name": "Task 3"
+    },
+    {
+      "name": "Task 4"
+    },
+    {
+      "name": "Task 5"
+    }
+  ],
+  "2022-01-31": [
+    {
+      "name": "Do 100 pushups",
+      "data": 100,
+      "completedAt": "2022-01-31T18:53:19.871Z"
+    },
+    {
+      "name": "Drink 2l of water",
+      "data": "150ml"
+    },
+    {
+      "name": "Task 3"
+    },
+    {
+      "name": "Task 4"
+    },
+    {
+      "name": "Task 5"
+    }
+  ]
+}
